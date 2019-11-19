@@ -1,0 +1,20 @@
+[run]
+branch = True
+source = .
+omit =
+    *apps.py,
+    *migrations/*,
+    *settings*,
+    *tests/*,
+    *tests_*/*,
+    *urls.py,
+    *wsgi/*,
+    *wsgi.py,
+    manage.py,
+    *virtualenv/*,
+    *venv/*,
+    *.venv/*,
+    *site-packages/*,
+    *htmlcov/*,
+[report]
+show_missing = True
