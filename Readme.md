@@ -17,3 +17,17 @@ This repo contains Django, DFR, pytest and coverage
 `pip install pytest-cov`
 
 `pip install django-webtest`
+
+##Build Django
+
+`django-admin startproject mysite`
+
+`python manage.py startapp myapp`
+
+## Setup DRF
+
+https://www.django-rest-framework.org/
+
+## Setup pytest-django
+
+https://pytest-django.readthedocs.io/en/latest/
