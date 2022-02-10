@@ -3,7 +3,7 @@ attrs==19.3.0
 beautifulsoup4==4.8.1
 colorama==0.4.1
 coverage==4.5.4
-Django==2.2.7
+Django==2.2.27
 django-webtest==1.9.7
 djangorestframework==3.10.3
 importlib-metadata==0.23
